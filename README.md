@@ -5,7 +5,8 @@ Ve všech 3 testech používám fixturu pro vytvoření vlastní instance prohl�
 ## 1. Test: "test_odber_newsletter_engeto_cz.py"
 Testuje, zda se při zadání nevalidní e-amailové adresy do inputu pro odběr newsletteru zobrazí odpovídající chybová hláška.  
 
-## 2. Test: "test_hover_menu_drop_down.py"
+## 2. Test: "test_hover_menu_drop_down_engeto_cz.py"
 Zde testuji, zda se po najetí myší (hover) na položku "Kurzy" v horním menu zobrazí drop down podmenu.
 
-## Test
+## 3. Test: "test_checkbox_filter_engeto_cz.py"
+Test jde na podstránku engeto.cz/terminy, kde ověří fungování filtru. Zašktrne checkbox u položky filtru a otestuje, zda se zobrazilo tlačítko na zrušení filtrování.
